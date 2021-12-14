@@ -1,25 +1,10 @@
 [{
     "id": 0,
-    "nome": "Corrispettivo Variabile",
-    "tipologiPunto": "XREG",
-    "tipologiaEdificio": "RG_60 Punti Dirette",
-    "valore": "0,0052111155733770",
-    "inizioValidita": "01.10.2019",
-    "fineValidita": "31.12.2019"
+    "nome": "Corrispettivo Variabile"
   }, {
-    "id": 1,
-    "nome": "Johhny test",
-    "tipologiPunto": "XREG",
-    "tipologiaEdificio": "RG_60 Punti Dirette",
-    "valore": "0,0052111155733770",
-    "inizioValidita": "01.10.2019",
-    "fineValidita": "31.12.2019"
+    "id": 0,
+    "nome": "Corrispettivo Variabile"
   }, {
-    "id": 2,
-    "nome": "Michele testing",
-    "tipologiPunto": "XREG",
-    "tipologiaEdificio": "RG_60 Punti Dirette",
-    "valore": "0,0052111155733770",
-    "inizioValidita": "01.10.2019",
-    "fineValidita": "31.12.2019"
+    "id": 0,
+    "nome": "Corrispettivo Variabile"
   }]

@@ -1,0 +1,9 @@
+{
+    "id": 0,
+    "nome": "Corrispettivo Variabile",
+    "tipologiPunto": "XREG",
+    "tipologiaEdificio": "RG_60 Punti Dirette",
+    "valore": "0,0052111155733770",
+    "inizioValidita": "01.10.2019",
+    "fineValidita": "31.12.2019"
+}
